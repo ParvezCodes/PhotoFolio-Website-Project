@@ -1,5 +1,6 @@
 # PhotoFolio-Website-Project
 Painting selling e-commerce website with HTML , CSS, JavaScript & PHP.
+(final year project)
 
 How to run this project
 1 : Download xampp server
